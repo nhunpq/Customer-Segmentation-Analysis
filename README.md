@@ -1,4 +1,4 @@
-# **Dự án Phân nhóm Khách hàng**
+# **Dự Án Phân Nhóm Khách Hàng**
 
 ## **Tổng quan**
 Dự án này tập trung vào việc phân nhóm khách hàng cho một công ty nhằm thúc đẩy hoạt động kinh doanh bằng cách triển khai các chiến lược phù hợp cho từng nhóm khách hàng. Bằng cách xác định các yếu tố quan trọng và áp dụng các kỹ thuật phân cụm, chúng ta có thể phân khách hàng dựa trên hành vi mua sắm và các chỉ số khác, từ đó giúp tạo ra các chiến lược tiếp thị cá nhân hóa.
